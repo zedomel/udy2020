@@ -1,0 +1,90 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "https://datadryad.org/stash/downloads/file_stream/514806",
+    "dcterms:bibliographicCitation" : "Udy, Kristy; Reininghaus, Hannah; Scherber, Christoph; Tscharntke, Teja (2020), Data from: Plant-pollinator interactions along an urbanization gradient from cities and villages to farmland landscapes, Dryad, Dataset, https://doi.org/10.5061/dryad.4mw6m906s",
+    "delimiter" : ",",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "interactionTypeName": "visitsFlowersOf",
+    "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002622",
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "code",
+        "titles" : "code",
+        "datatype" : "string"
+      }, {
+        "name" : "groups2",
+        "titles" : "groups2",
+        "datatype" : "string"
+      }, {
+        "name" : "site",
+        "titles" : "site",
+        "datatype" : "string"
+      }, {
+        "name" : "city",
+        "titles" : "city",
+        "datatype" : "string"
+      }, {
+        "name" : "landuse",
+        "titles" : "landuse",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "species_fam",
+        "datatype" : "string"
+      }, {
+        "name" : "groups",
+        "titles" : "groups",
+        "datatype" : "string"
+      }, {
+        "name" : "visits",
+        "titles" : "visits",
+        "datatype" : "string"
+      }, {
+        "name" : "individual",
+        "titles" : "individual",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "plant",
+        "datatype" : "string"
+      }, {
+        "name" : "plant_richness",
+        "titles" : "plant_richness",
+        "datatype" : "string"
+      }, {
+        "name" : "flower_cover",
+        "titles" : "flower_cover",
+        "datatype" : "string"
+      }, {
+        "name" : "prop_garden_500",
+        "titles" : "prop_garden_500",
+        "datatype" : "string"
+      }, {
+        "name" : "prop_greenSpace_500",
+        "titles" : "prop_greenSpace_500",
+        "datatype" : "string"
+      }, {
+        "name" : "prop_greenspaceU_500",
+        "titles" : "prop_greenspaceU_500",
+        "datatype" : "string"
+      }, {
+        "name" : "prop_urban_500",
+        "titles" : "prop_urban_500",
+        "datatype" : "string"
+      }, {
+        "name" : "code_time",
+        "titles" : "code_time",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
