@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/udy2020.svg)](https://travis-ci.com/udy2020) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:udy2020)](http://globalbioticinteractions.org/?accordingTo=globi:udy2020)
+[![Build Status](https://travis-ci.com/udy2020.svg)](https://travis-ci.com/udy2020) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=zedomel:udy2020)](http://globalbioticinteractions.org/?accordingTo=zedomel:udy2020)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
