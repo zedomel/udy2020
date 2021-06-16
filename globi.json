@@ -8,7 +8,7 @@
       "@language" : "en"
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-    "url" : "https://datadryad.org/stash/downloads/file_stream/514806",
+    "url" : "https://datadryad.org/stash/downloads/file_stream/327275",
     "dcterms:bibliographicCitation" : "Udy, Kristy; Reininghaus, Hannah; Scherber, Christoph; Tscharntke, Teja (2020), Data from: Plant-pollinator interactions along an urbanization gradient from cities and villages to farmland landscapes, Dryad, Dataset, https://doi.org/10.5061/dryad.4mw6m906s",
     "delimiter" : ",",
     "headerRowCount" : 1,
